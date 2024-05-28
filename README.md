@@ -1,3 +1,3 @@
 # DLL_injector
 
-Simple DLL injector written in python.
+Simple DLL injector written in python for fun.
